@@ -1,6 +1,6 @@
 ### Olá eu sou a Daniella 👋
 
-Meu primeiro contato com o mundo da programação foi em 2022, mas em 2023 que descobri o quanto gosto de desnvolvimento Front-End.
+Meu primeiro contato com o mundo da programação foi em 2022, mas foi em 2023 que descobri o quanto gosto de desnvolvimento Front-End.
 Desde então realizei cursos e busco aprender cada vez mais.
 Fiz um curso de qualificação profissional em Programador de Sistemas e Programador Web no SENAC através do programa Jovem Programador. Aprendi conceitos básicos de SQL e modelagem de dados, além de lógica de programação, vi um pouco sobre textes e elaboração de projetos web, no curso de programação para web vi sobre HTML, CSS e JavaScript. Também fiz parte do Programa ONE Oracle + Alura, tie aulas de HTML, CSS, JavaScript, arquitetura CSS, React, Git e soft skills.
 Realizei outros cursos online sobre desenvolvimento Front-End.
