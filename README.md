@@ -11,7 +11,7 @@ Também participei do Programa ONE Oracle + Alura, tive aulas de HTML, CSS, Java
 
 Agora estou criando projetos para praticar o que tenho estudado, e cada vez mais gosto de React. 
 
-Planos para 2024: aprender Typescript, NextJs, Ux/UI e NodJs.
+Planos para 2024: aprender Typescript, NextJs, Ux/UI e NodeJs.
 
 ![Daniella GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniella-Rocha&show_icons=true&theme=synthwave)
 
