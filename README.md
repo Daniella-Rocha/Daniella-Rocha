@@ -9,7 +9,9 @@ Fiz um curso de qualificação profissional em Programador de Sistemas e Program
 
 Também participei do Programa ONE Oracle + Alura, tive aulas de HTML, CSS, JavaScript, arquitetura CSS, React, Git e soft skills. Realizei outros cursos online sobre desenvolvimento Front-End.
 
-Agora estou criando projetos para praticar o que tenho estudado, e cada vez mais gosto de React. Planos
+Agora estou criando projetos para praticar o que tenho estudado, e cada vez mais gosto de React. 
+
+Planos para 2024: aprender Typescript, NextJs, Ux/UI e NodJs.
 
 ![Daniella GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniella-Rocha&show_icons=true&theme=synthwave)
 
