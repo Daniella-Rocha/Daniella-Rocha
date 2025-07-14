@@ -3,13 +3,13 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniella-r-mathias/)  
 [![Gmail](https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=Gmail)](mailto:daniella.fp.dr@gmail.com)
 
-Sou entusiasta do desenvolvimento web e de sistemas, com uma afinidade especial pelo Front-End. Desde 2022 venho trilhando meu caminho na programação, e em 2023 descobri o quanto gosto de criar interfaces e experiências interativas.
+Sou programadora de sistemas com forte afinidade por desenvolvimento web, especialmente no Front-End. Desde 2022 venho construindo minha trajetória na área, e em 2023 descobri minha paixão por criar interfaces interativas e funcionais. 
 
-Participei do programa ONE Oracle + Alura, onde aprofundei meus conhecimentos em HTML, CSS, JavaScript, React, Git e arquitetura CSS, além de desenvolver habilidades interpessoais. Também concluí um curso de qualificação em Programação de Sistemas e Programação Web, aprendendo fundamentos de lógica, SQL, modelagem de dados, testes e construção de projetos web.
+Participei do programa ONE Oracle + Alura, onde aprofundei meus conhecimentos em HTML, CSS, JavaScript, React, Git e arquitetura CSS, além de desenvolver soft skills essenciais. Também concluí um curso de qualificação em Programação de Sistemas e Programação Web, no qual aprendi lógica de programação, fundamentos de SQL, modelagem de dados, testes e construção de projetos web.
 
-Atualmente estou no 4º semestre da graduação em Engenharia de Software e atuo como programadora de sistemas há 1 ano. Sigo praticando com projetos próprios e buscando evoluir constantemente como desenvolvedora.
+Atualmente estou no 4º semestre da graduação em Engenharia de Software e atuo como programadora há 1 ano. Estou constantemente aprimorando minhas habilidades e desenvolvendo projetos próprios para consolidar meu aprendizado.
 
-Aqui no GitHub compartilho alguns dos meus estudos, projetos e ideias. 🚀
+Meu objetivo é me tornar uma engenheira de software capaz de arquitetar, modelar, manter e evoluir sistemas complexos, de grande porte e escaláveis.
 
 ![Daniella GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniella-Rocha&show_icons=true&theme=synthwave)
 
@@ -25,4 +25,4 @@ Aqui no GitHub compartilho alguns dos meus estudos, projetos e ideias. 🚀
   <img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 </div><br/>
 
-Apaixonada por desenvolvimento Front-End, mas sem perder de vista o objetivo de me tornar uma desenvolvedora Full Stack.
+Apaixonada por desenvolvimento Front-End, mas com uma visão clara: evoluir para uma desenvolvedora Full Stack e engenheira de software preparada para lidar com sistemas robustos e escaláveis.
