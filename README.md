@@ -1,22 +1,3 @@
-Claro! Vamos criar um README.md para o seu perfil do GitHub com seções em português e inglês. Vou usar o texto que você forneceu e as informações de contato e badges.
-
-Markdown
-
----
-### Olá, sou a Daniella! 👋 (Português)
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniella-r-mathias/)
-[![Gmail](https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=Gmail)](mailto:daniella.fp.dr@gmail.com)
-
-Sou uma **programadora de sistemas** com foco em **desenvolvimento web**, e minha paixão reside em criar **interfaces Front-End intuitivas e funcionais**. Desde 2022, venho construindo minha carreira, e em 2023, descobri o prazer de dar vida a experiências interativas.
-
-Minha jornada inclui o programa **ONE Oracle + Alura**, onde aprofundei meus conhecimentos em **HTML, CSS, JavaScript, React, Git** e **arquitetura CSS**, além de aprimorar minhas soft skills. Também completei um curso de qualificação em **Programação de Sistemas e Programação Web**, adquirindo uma base sólida em **lógica de programação, SQL, modelagem de dados, testes** e **desenvolvimento de projetos web**.
-
-Atualmente, estou no 4º semestre de **Engenharia de Software** e possuo 1 ano de experiência como programadora. Estou sempre em busca de novos aprendizados e desenvolvendo projetos próprios para consolidar meu conhecimento e explorar novas tecnologias.
-
-Meu grande objetivo é me tornar uma **engenheira de software** completa, capaz de **arquitetar, modelar, manter e evoluir sistemas complexos, de grande porte e escaláveis**.
-
----
 
 ### Hello, I'm Daniella! 👋 (English)
 
@@ -51,4 +32,19 @@ My main goal is to become a complete **software engineer**, capable of **archite
   <img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 </div><br/>
 
-Passionate about Front-End development, but with a clear vision: to ev
+Passionate about Front-End development, but with a clear vision: to evolve into a Full Stack developer and software engineer prepared to handle robust and scalable systems.
+
+---
+### Olá, sou a Daniella! 👋 (Português)
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniella-r-mathias/)
+[![Gmail](https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=Gmail)](mailto:daniella.fp.dr@gmail.com)
+
+Sou uma **programadora de sistemas** com foco em **desenvolvimento web**, e minha paixão reside em criar **interfaces Front-End intuitivas e funcionais**. Desde 2022, venho construindo minha carreira, e em 2023, descobri o prazer de dar vida a experiências interativas.
+
+Minha jornada inclui o programa **ONE Oracle + Alura**, onde aprofundei meus conhecimentos em **HTML, CSS, JavaScript, React, Git** e **arquitetura CSS**, além de aprimorar minhas soft skills. Também completei um curso de qualificação em **Programação de Sistemas e Programação Web**, adquirindo uma base sólida em **lógica de programação, SQL, modelagem de dados, testes** e **desenvolvimento de projetos web**.
+
+Atualmente, estou no 4º semestre de **Engenharia de Software** e possuo 1 ano de experiência como programadora. Estou sempre em busca de novos aprendizados e desenvolvendo projetos próprios para consolidar meu conhecimento e explorar novas tecnologias.
+
+Meu grande objetivo é me tornar uma **engenheira de software** completa, capaz de **arquitetar, modelar, manter e evoluir sistemas complexos, de grande porte e escaláveis**.
+
