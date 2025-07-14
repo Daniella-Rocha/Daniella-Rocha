@@ -1,19 +1,33 @@
-### Olá, eu sou a Daniella 👋
+## Olá, sou a Daniella! 👋
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniella-r-mathias/)  
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniella-r-mathias/)
 [![Gmail](https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=Gmail)](mailto:daniella.fp.dr@gmail.com)
 
-Sou programadora de sistemas com forte afinidade por desenvolvimento web, especialmente no Front-End. Desde 2022 venho construindo minha trajetória na área, e em 2023 descobri minha paixão por criar interfaces interativas e funcionais. 
+Sou uma **programadora de sistemas** com foco em **desenvolvimento web**, e minha paixão reside em criar **interfaces Front-End intuitivas e funcionais**. Desde 2022, venho construindo minha carreira, e em 2023, descobri o prazer de dar vida a experiências interativas.
 
-Participei do programa ONE Oracle + Alura, onde aprofundei meus conhecimentos em HTML, CSS, JavaScript, React, Git e arquitetura CSS, além de desenvolver soft skills essenciais. Também concluí um curso de qualificação em Programação de Sistemas e Programação Web, no qual aprendi lógica de programação, fundamentos de SQL, modelagem de dados, testes e construção de projetos web.
+Minha jornada inclui o programa **ONE Oracle + Alura**, onde aprofundei meus conhecimentos em **HTML, CSS, JavaScript, React, Git** e **arquitetura CSS**, além de aprimorar minhas soft skills. Também completei um curso de qualificação em **Programação de Sistemas e Programação Web**, adquirindo uma base sólida em **lógica de programação, SQL, modelagem de dados, testes** e **desenvolvimento de projetos web**.
 
-Atualmente estou no 4º semestre da graduação em Engenharia de Software e atuo como programadora há 1 ano. Estou constantemente aprimorando minhas habilidades e desenvolvendo projetos próprios para consolidar meu aprendizado.
+Atualmente, estou no 4º semestre de **Engenharia de Software** e possuo 1 ano de experiência como programadora. Estou sempre em busca de novos aprendizados e desenvolvendo projetos próprios para consolidar meu conhecimento e explorar novas tecnologias.
 
-Meu objetivo é me tornar uma engenheira de software capaz de arquitetar, modelar, manter e evoluir sistemas complexos, de grande porte e escaláveis.
+Meu grande objetivo é me tornar uma **engenheira de software** completa, capaz de **arquitetar, modelar, manter e evoluir sistemas complexos, de grande porte e escaláveis**.
+
+---
+
+### O que você encontrará por aqui:
+
+* **Projetos Front-End:** Interfaces responsivas e interativas construídas com as tecnologias mais atuais.
+* **Aplicações Full-Stack:** Exemplos que demonstram minha habilidade em transitar entre o Front-End e o Back-End.
+* **Códigos e Desafios:** Soluções e experimentos que refletem meu aprendizado contínuo.
+
+---
+
+### Minhas Estatísticas no GitHub
 
 ![Daniella GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniella-Rocha&show_icons=true&theme=synthwave)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniella-Rocha&layout=compact&theme=synthwave)
+
+---
 
 ### Tecnologias que eu utilizo
 
