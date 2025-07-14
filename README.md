@@ -13,14 +13,6 @@ Meu grande objetivo é me tornar uma **engenheira de software** completa, capaz 
 
 ---
 
-### O que você encontrará por aqui:
-
-* **Projetos Front-End:** Interfaces responsivas e interativas construídas com as tecnologias mais atuais.
-* **Aplicações Full-Stack:** Exemplos que demonstram minha habilidade em transitar entre o Front-End e o Back-End.
-* **Códigos e Desafios:** Soluções e experimentos que refletem meu aprendizado contínuo.
-
----
-
 ### Minhas Estatísticas no GitHub
 
 ![Daniella GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniella-Rocha&show_icons=true&theme=synthwave)
