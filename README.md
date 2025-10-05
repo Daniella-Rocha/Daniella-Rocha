@@ -4,14 +4,27 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniella-r-mathias/)
 [![Gmail](https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=Gmail)](mailto:daniella.fp.dr@gmail.com)
 
-I'm a **systems programmer** with a strong focus on **web development**, and my passion lies in creating **intuitive and functional Front-End interfaces**. I've been building my career since 2022, and in 2023, I discovered the joy of bringing interactive experiences to life.
+👩‍💻 I'm a **programmer** with **one year of professional experience** and currently in the **4th semester of my Software Engineering degree**.  
+🌐 My main focus is **web development**, and I’m passionate about creating **intuitive and functional front-end interfaces**.  
+🚀 Since starting my journey in **2022**, I’ve discovered the joy of building interactive and meaningful digital experiences.
 
-My journey includes the **ONE Oracle + Alura** program, where I deepened my knowledge in **HTML, CSS, JavaScript, React, Git**, and **CSS architecture**, in addition to honing my essential soft skills. I also completed a qualification course in **Systems Programming and Web Programming**, gaining a solid foundation in **programming logic, SQL fundamentals, data modeling, testing**, and **web project construction**.
+---
 
-Currently, I'm in the 4th semester of my **Software Engineering** degree and have 1 year of experience as a programmer. I'm constantly seeking new knowledge and developing my own projects to solidify my learning and explore new technologies.
+### 🎓 Education & Learning  
+- 🎯 **Software Engineering** — currently in the 4th semester  
+- 🧠 **ONE Oracle + Alura Program** — deepened my skills in **HTML, CSS, JavaScript, React, Git**, and **CSS architecture**, along with essential **soft skills**  
+- 💡 **Qualification in Systems Programming and Web Programming** — strong foundation in **programming logic, SQL fundamentals, data modeling, software testing**, and **web project development**
 
-My main goal is to become a complete **software engineer**, capable of **architecting, modeling, maintaining, and evolving complex, large-scale, and scalable systems**.
+---
 
+### 🔍 What I'm Working On  
+- Constantly learning and building **personal projects** to strengthen my skills  
+- Exploring **new technologies** to improve as a developer  
+- Working toward becoming a **Software Engineer** capable of **architecting, modeling, maintaining**, and **evolving scalable, complex systems**
+
+---
+
+✨ *“Code is like art — it’s not just about functionality, but about creating something meaningful.”*
 ---
 
 ### My GitHub Stats
