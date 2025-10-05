@@ -5,8 +5,7 @@
 
 👩‍💻 I'm a **Software Developer** with **one year of professional experience** and currently in the **4th semester of my Software Engineering degree**.  
 🌐 My main focus is **web development**, with a strong emphasis on **React, JavaScript, responsive design**, and building applications with **solid programming logic**.  
-🚀 Since starting my journey in **2022**, I’ve been exploring interactive digital experiences and building practical skills in both **front-end development** and **systematic problem-solving**.
-
+🚀 Since I started my journey in 2022, I’ve been exploring interactive digital experiences and developing practical problem-solving skills in both front-end and back-end.
 ---
 
 ### 🎓 Education & Learning  
@@ -34,7 +33,7 @@
 
 👩‍💻 Sou **Software Developer** com **1 ano de experiência profissional** e atualmente no **4º semestre de Engenharia de Software**.  
 🌐 Meu foco principal é **desenvolvimento web**, com ênfase em **React, JavaScript, design responsivo** e **aplicações construídas com lógica de programação sólida**.  
-🚀 Desde que comecei minha jornada em **2022**, venho explorando experiências digitais interativas e construindo habilidades práticas tanto em **front-end** quanto em **resolução de problemas**.
+🚀 Desde que comecei minha jornada em 2022, venho explorando experiências digitais interativas e desenvolvendo habilidades práticas de resolução de problemas, tanto no front-end quanto no back-end.
 
 ---
 
