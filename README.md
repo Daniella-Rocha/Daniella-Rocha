@@ -4,9 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniella-r-mathias/)
 [![Gmail](https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=Gmail)](mailto:daniella.fp.dr@gmail.com)
 
-## 💻 About Me  
-
-👩‍💻 I'm a **programmer** with **one year of professional experience** and currently in the **4th semester of my Software Engineering degree**.  
+👩‍💻 I'm a **Software Developer** with **one year of professional experience** and currently in the **4th semester of my Software Engineering degree**.  
 🌐 My main focus is **web development**, and I’m passionate about creating **intuitive and functional front-end interfaces**.  
 🚀 Since starting my journey in **2022**, I’ve discovered the joy of building interactive and meaningful digital experiences.
 
@@ -15,13 +13,13 @@
 ### 🎓 Education & Learning  
 - 🎯 **Software Engineering** — currently in the 4th semester  
 - 🧠 **ONE Oracle + Alura Program** — where I improved my skills in **HTML, CSS, JavaScript, React**, and **Git**, while developing essential **soft skills**  
-- 💡 **Qualification in Systems Programming and Web Programming** — where I learned the fundamentals of **programming logic, SQL, data modeling**, and **web development basics**
+- 💡 **Qualification in Systems Programming and Web Programming** — where I learned the fundamentals of **programming logic, SQL, data modeling**, and **web development**
 
 ---
 
 ### 🔍 What I'm Working On  
-- Building **personal projects** to practice and solidify my knowledge  
-- Exploring **new technologies** and improving my coding skills  
+- Building **personal projects** to practice and strengthen my skills  
+- Exploring **new technologies** and improving my code quality  
 - Working toward becoming a **Software Engineer** capable of **designing, maintaining**, and **evolving scalable systems**
 
 ---
